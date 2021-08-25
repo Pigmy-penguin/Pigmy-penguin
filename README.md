@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, it's Pigmy Penguin</h1>
+<h1 align="center">Hello world, it's me</h1>
 <h3 align="center">Bad system dev :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pigmy-penguin&label=Profile%20views&color=0e75b6&style=flat" alt="pigmy-penguin" /> </p>
