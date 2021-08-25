@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📫 How to reach me **pigmy-penguin@protonmail.com**
+- 📫 How to reach me: **mow.fr0@gmail.com** or **pigmy-penguin@protonmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
