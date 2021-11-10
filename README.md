@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pigmy-penguin&label=Profile%20views&color=0e75b6&style=flat" alt="pigmy-penguin" /> </p>
 
-- 🔭 I’m currently working on my OS
+- 🔭 I’m currently working on [Slops](https://www.github.com/Slops64/slops)
 
 - 🌱 I’m currently learning **Rust**
 
